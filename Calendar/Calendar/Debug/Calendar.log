@@ -1,0 +1,3 @@
+﻿  Calendar.cpp
+C:\Users\NSPavlova18\source\repos\Calendar\Calendar\Calendar.cpp(38): warning C4715: 'numberOfDays': not all control paths return a value
+  Calendar.vcxproj -> C:\Users\NSPavlova18\source\repos\Calendar\Debug\Calendar.exe
